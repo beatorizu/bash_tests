@@ -1,1 +1,5 @@
 *.tar.gz
+STDERR.txt
+STDOUT.txt
+STDERR_STDOUT
+file1
